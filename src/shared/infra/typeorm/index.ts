@@ -1,4 +1,3 @@
-import { createConnection } from 'typeorm';
+import { createConnections } from 'typeorm';
 
-console.log('create connection');
-createConnection();
+createConnections();
