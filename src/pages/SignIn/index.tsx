@@ -67,6 +67,7 @@ const SignIn: React.FC = () => {
   }, []);
 
   const handleSubmit = useCallback(async (data: SignInFormData) => {
+    console.log('button pressed');
     try {
       formRef.current?.setErrors({});
 
@@ -86,6 +87,8 @@ const SignIn: React.FC = () => {
         password: data.password,
       });
     } catch (err) {
+      console.log(err);
+
       if (err instanceof Yup.ValidationError) {
         const errors = getValidationErrors(err);
         formRef.current?.setErrors(errors);
