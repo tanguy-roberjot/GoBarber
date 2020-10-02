@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img alt="Frontend" src=".github/GoBarber.png" width="100%">
+  <img alt="Frontend" src=".github/gobarber.png" width="100%">
 </p>
 
 ## Used technologies
