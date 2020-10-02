@@ -1,5 +1,4 @@
-# GoBarber
-<h1 align="center">DevMap
+<h1 align="center">GoBarber
 </h1>
 
 <h4 align="center">
