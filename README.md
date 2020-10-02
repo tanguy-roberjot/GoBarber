@@ -5,16 +5,16 @@
   🚀 GoStack 2020 bootcamp - RocketSeat
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tanguy-roberjot/GoBarber">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tanguy-roberjot/gobarber">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tanguy-roberjot/GoBarber">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tanguy-roberjot/gobarber">
   
   <a href="https://github.com/tanguy-roberjot/GoBarber/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tanguy-roberjot/GoBarber">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tanguy-roberjot/gobarber">
   </a>
 
   <a href="https://github.com/tanguy-roberjot/GoBarber/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/tanguy-roberjot/GoBarber">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/tanguy-roberjot/gobarber">
   </a>
 
 </p>
